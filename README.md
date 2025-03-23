@@ -23,8 +23,9 @@ Server = https://mirror.xenyth.net/manjaro/stable/$repo/$arch
 $ sudo pacman -Syu
 ```
 
-#yay
+# yay
 ```bash
-$ sudo pacman -S base-devel
+$ sudo pacman -S base-devel yay
 ```
 
+t
